@@ -1,0 +1,8 @@
+openai
+gTTS
+moviepy
+pillow
+python-dotenv
+pytrends
+praw
+ffmpeg-python
