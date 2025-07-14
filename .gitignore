@@ -1,0 +1,7 @@
+# Ignore bark-venv
+bark-venv/
+bark310/
+venv/
+
+# Ignore environment files
+.env
